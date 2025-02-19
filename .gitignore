@@ -1,0 +1,68 @@
+## User-specific files
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files
+Thumbs.db
+ehthumbs.db
+
+# User-specific files
+.vs
+.vscode
+.idea
+
+# Windows Installer files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+## Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]evelopment/
+[Dd]evelopmentPublic/
+[Dd]ebugSymbols/
+[Dd]ebugSigned/
+[Dd]ist/
+[Dd]istPublic/
+[Dd]eploy/
+[Dd]eployPublic/
+bin/
+obj/
+out/
+test/
+tests/
+tst/
+
+## .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## ASP.NET Files
+# Windows Installer files
+# Windows Installer files
+logs/
+
+# User-specific files
+# npm
+node_modules/
+
+# JetBrains Rider
+.idea/
+
+# VS Code directories
+.vscode/
+
+# Mac-specific files
+.DS_Store
+
+# Windows Installer files
+Thumbs.db
